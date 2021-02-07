@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package konversi;
+package Konversi;
 
 import java.util.Scanner;
 
@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author seven
  */
-public class Konvers {
+public class Konversi {
     
     public static void main(String[] args) {
         //komentar
